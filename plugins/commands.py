@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("JOIN NOW", url="https://t.me/+2CRHzwXy1-oyMzAx")
                 ]
             ]
         ),
@@ -265,11 +265,11 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "CHANNEL 1", url="https://t.me/MALLUM4")
                 ],
                 [
-                    InlineKeyboardButton("BACK", callback_data="help_data"),
-                    InlineKeyboardButton("CLOSE", callback_data="close_data"),
+                    InlineKeyboardButton("CHANNEL 2", url="https://t.me/+Wsftn8dWl7E4YmJl"),
+                    InlineKeyboardButton("CHANNEL 3", url="https://t.me/+5W6KbgCNelFkNmVh"),
                 ]                
             ]
         ),
