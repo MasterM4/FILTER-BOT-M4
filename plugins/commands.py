@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("JOIN NOW", url="https://t.me/+2CRHzwXy1-oyMzAx")
+                    InlineKeyboardButton("💕JOIN NOW💕", url="https://t.me/+2CRHzwXy1-oyMzAx")
                 ]
             ]
         ),
@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
-                    InlineKeyboardButton("About Me", callback_data="about_data")
+                    InlineKeyboardButton("💕CHANNEL 1💕", url="https://t.me/+Wsftn8dWl7E4YmJl"),
+                    InlineKeyboardButton("💕CHANNEL 2💕", url="https://t.me/TAMIL_ROCKSTAR")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("💕CHANNEL 3💕", url="https://t.me/MALLUM4"),
+                    InlineKeyboardButton("💕CHANNEL 4💕", url="https://t.me/+JyaY3szKzPZmN2Ux")
                 ]
             ]
         ),
@@ -265,11 +265,11 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "CHANNEL 1", url="https://t.me/MALLUM4")
+                        "💕CHANNEL 1💕", url="https://t.me/MALLUM4")
                 ],
                 [
-                    InlineKeyboardButton("CHANNEL 2", url="https://t.me/+Wsftn8dWl7E4YmJl"),
-                    InlineKeyboardButton("CHANNEL 3", url="https://t.me/+5W6KbgCNelFkNmVh"),
+                    InlineKeyboardButton("💕CHANNEL 2💕", url="https://t.me/+Wsftn8dWl7E4YmJl"),
+                    InlineKeyboardButton("💕CHANNEL 3💕", url="https://t.me/+5W6KbgCNelFkNmVh"),
                 ]                
             ]
         ),
